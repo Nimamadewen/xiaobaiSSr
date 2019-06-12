@@ -5,8 +5,12 @@
 原创地址 github.com/pzx521521/SomeSSServerInChina
 
 
-o(∩_∩)o 
 6.11
 
 更新端口号为:13712  
 密码:www.xbvpn.com
+
+
+6.12
+
+修改端口为:443
